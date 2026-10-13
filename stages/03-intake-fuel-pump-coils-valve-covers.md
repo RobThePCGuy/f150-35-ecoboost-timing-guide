@@ -2,6 +2,13 @@
 
 Clear the top of the engine: the intake pipes, the intake manifold, the high-pressure fuel pump, all six coils, and both valve covers. Several Ford procedures in this stage repeat each other (the appearance cover and air pipes show up in four of them). Do each removal once and check it off when a later procedure asks again.
 
+**Video:**
+- [Part 1 at 3:00](https://youtu.be/Va6sVtzRZAo?t=180) — battery off, then the air cleaner pipes, turbo inlet tubes and wastegate vacuum line
+- [Part 1 at 8:00](https://youtu.be/Va6sVtzRZAo?t=480) — boost sensor plug and the CAC quick connect with its spring ring
+- [Part 1 at 13:00](https://youtu.be/Va6sVtzRZAo?t=780) — throttle body, PCV, MAP and harness retainers coming off the intake
+- [Part 1 at 18:00](https://youtu.be/Va6sVtzRZAo?t=1080) — fuel pump lines, the pump bolts and the roller tappet
+- [Part 1 at 25:00](https://youtu.be/Va6sVtzRZAo?t=1500) — the 8 intake bolts and lifting the manifold, then coils and valve covers at 28:00
+
 **Have open:** Ford workshop manual, Section 303-12: Intake Air System Components, 3.5L GTDI; Section 303-01A: Intake Manifold – Removal, Valve Cover LH – Removal, Valve Cover RH – Removal; Section 303-04A: Fuel Injection Pump – Removal, Fuel Injection Pump Roller Tappet Inspection; Section 303-07A: Ignition Coil-On-Plug.
 
 **Tools / parts / time limits:**
@@ -16,9 +23,12 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
 1. **Remove the engine appearance cover.** It lifts off its grommets. Put the oil fill cap back on right away so nothing falls in.
 2. **Remove the air cleaner outlet pipe and the RH air cleaner-to-turbo pipe.** Back off the worm clamps; don't take the screws all the way out.
    Bag B03-01: 5 clamps (8 mm, stay on pipes), back in Stage 14, 5 Nm (44 lb-in).
+   Tip: pop the small wastegate vacuum line off the RH inlet tube before you pull it. On 2011–2012 trucks the RH inlet tube also has a bypass hose; squeeze its clamp and leave the hose on the engine. 2013 and later trucks don't have it. The turbo-end clamp is easiest to reach through the wheel well (from FordTechMakuloco's video).
 3. **Disconnect the charge air cooler (CAC)-to-throttle body pipe.** Loosen the band clamp at the throttle body, twist the rubber end to break it loose, pull it off. (Ford figure N0128843 in "Intake Manifold – Removal".)
    Bag B03-02: 1 clamp (8 mm, stays on pipe), back in Stage 14, 5 Nm (44 lb-in).
+   Tip: the boost pressure sensor plug on this pipe sticks from heat. Push the tab all the way down and push the plug toward the sensor before you pull it off. At the charge air cooler end, hook the wire spring ring out with a finger, lift the pipe, then snap the ring back into its grooves so it's ready for reassembly. A puddle of oil inside the pipe is normal boost carryover (from FordTechMakuloco's video).
 4. **Unplug the throttle body.** Press the tab and pull the connector straight off. Pop the harness push pin below it out with a trim tool. (Ford figure N0128846.)
+   Tip: work a forked trim tool (cat claw) under the harness retainer a little at a time from each side and it comes out whole (from FordTechMakuloco's video).
 5. **Remove the PCV tube** (quick connects, fingers only).
    Bag B03-03: PCV tube, back in Stage 14, push-on.
 6. **Disconnect the EVAP hose from the manifold.** Blow the coupling clean. Two side buttons: squeeze and pull. Lock tab on top: release it, then pull. No tools; they deform the clip.
@@ -29,13 +39,16 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
 9. **Lift the T-shaped harness clip** straight up out of its post on the manifold. Grip the clip, not the wires. (Ford figure N0148681.)
 10. **Pop the push pin on the turbo vacuum regulator** with a trim tool and lay the regulator aside, hoses attached. (Ford figure N0128847.)
     Bag B03-06: 1 push pin, back in Stage 14.
+    While you're here, look at the brake booster vacuum hose on the manifold. On 2011–2012 trucks the updated hose has check valves and a clamp at each end; if a clamp is missing or the hose is cracked, replace it before reassembly (from FordTechMakuloco's video).
 11. **Remove the intake manifold.** Loosen all 8 bolts (they're captive in the manifold) and lift it off. Throw away the gaskets. Stuff clean rags in the intake ports, then clean and inspect both sealing faces.
+    Tip: blow around every joint before you loosen anything, then once the manifold is off, vacuum up debris instead of blowing it; air pushes it into the ports. Back the bolts off in a crisscross so the manifold lifts evenly (from FordTechMakuloco's video).
     Bag B03-07: 6 × 8 mm short, back in Stage 14, 10 Nm + 45° in Ford's sequence.
     Bag B03-08: 2 × 8 mm long, back in Stage 14, 10 Nm + 45° in Ford's sequence.
 
 ### LH pipes and fuel pump
 12. **Remove the LH air cleaner-to-turbo pipe and the LH turbo-to-CAC tube.** The air cleaner outlet pipe is already off.
     Bag B03-09: 6 clamps across LH and RH turbo-to-CAC tubes (8 mm, stay on tubes), back in Stage 14, 5 Nm (44 lb-in).
+    Tip: every air pipe passes through a rubber grommet. Turn the pipe until it lines up with the grommet and it slides through; pulling straight tears the grommet (from FordTechMakuloco's video).
 13. **Remove the fuel pump noise shield.** Spread its openings a little as you lift; it tears easily.
     Bag B03-10: noise shield, back in Stage 14.
 14. **Unplug the fuel pump.** Release any colored lock, press the tab, pull straight off. Don't rock it; the socket is part of the pump.
@@ -43,7 +56,8 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
 16. **Check the flare nut.** It was opened in Stage 2 and the bracket nut is already gone. Confirm the tube end is capped; don't touch it again. Opening only the pump end allows the tube to be reused.
 17. **Remove the pump.** Loosen the 2 bolts one full turn at a time, alternating, so the cam lobe pushes the pump out evenly. Lift the pump off. Throw away both bolts and the O-ring.
     Bag B03-11: 2 × 10 mm, NEW at Stage 14, run down evenly one turn at a time until seated, then 20 Nm + 45°.
-18. **Pull the roller tappet out of its bore** and inspect it. Look for flat spots or scoring on the roller. If you find any, inspect the pump and the drive lobe on the cam too, and replace what's damaged. Bag it clean.
+    If the cam lobe is up, the pump pushes itself out as the bolts back off; keep a hand on it. Plug the bore as soon as the tappet is out (from FordTechMakuloco's video).
+18. **Pull the roller tappet out of its bore** and inspect it. Look for flat spots or scoring on the roller. If you find any, inspect the pump and the drive lobe on the cam too, and replace what's damaged. Bag it clean. A light ring on the roller is fine if it rolls smooth and isn't loose. Sniff the bore: it should smell like oil only. A fuel smell points to a pump seal leaking fuel into the crankcase (from FordTechMakuloco's video).
     Bag B03-12: tappet, back in Stage 14. Oil the bore, lobe and tappet before it goes back.
 
 ### Coils
@@ -67,7 +81,9 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
     Bag B03-17: 1 × 15 mm large (M10), back in Stage 13, 48 Nm (35 lb-ft).
 30. **Unplug the 2 LH VCT solenoids** at the front of the cover. Press each tab and pull straight up. The connector head turns slightly in its housing (about 12°); that's normal. Cut the tie strap below them. (Ford figure N0146628.)
 31. **Release every harness clip from the LH cover and studs.** Trim tool under the clip base, lever straight up. Never pull the harness.
+    These clips are the slowest part of this stage for most people; several report losing hours here. A cat-claw style forked tool helps. Clips aren't sold on their own, so if one breaks, plan to drill a small hole in it and hold it with a zip tie at reassembly (common report in the video comments).
 32. **Remove the LH valve cover.** Loosen all 11 bolts (they stay in the cover). Lift straight up. If it hangs on the VCT solenoids, wiggle it gently until the seals let go; don't pry against the solenoids. Throw away the gasket. Inspect the solenoids and replace any that are damaged.
+    The covers often stick hard, held by the gasket and the hardened spark plug tube seals. Lift the front and back evenly a little at a time. The covers are plastic and crack if you pry at the edge; pry only where there's a solid tab, and never against the solenoids (common report in the video comments).
     Bag B03-18: 11 bolt-and-sleeve (10 mm deep), back in Stage 13, 10 Nm (89 lb-in) in Ford's sequence.
 33. **Inspect the 2 VCT solenoid seals and the spark plug tube seals in the cover.** Remove only damaged ones, using Ford's seal tools named in the procedure.
 34. **Clean the sealing faces** of the cover, the head and the top of the front cover with metal surface prep.

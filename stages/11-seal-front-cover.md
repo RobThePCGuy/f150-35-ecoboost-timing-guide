@@ -4,6 +4,12 @@ The timing is in and counted, so the front cover goes on. You clean the cover an
 
 Keep the Ford procedure open beside this page for the diagrams and exact wording; this page tells you how we did it and where the traps are.
 
+**Video:**
+- [Part 2 at 18:00](https://youtu.be/k4bUkK9eqKk?t=1080) — cleaning the old RTV off the removed cover
+- [Part 4 at 1:00](https://youtu.be/dzb0PMI5v78?t=60) — the head-to-block T-joints, the most common leak point
+- [Part 4 at 2:00](https://youtu.be/dzb0PMI5v78?t=120) — pressing the radial seal into the cover from the back
+- [Part 4 at 5:00](https://youtu.be/dzb0PMI5v78?t=300) — laying the RTV bead and hanging the cover
+
 **Have open:** Ford workshop manual, Section 303-01A: Engine Front Cover – Installation.
 
 **Tools / parts / time limits:**
@@ -24,14 +30,19 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 2. **Clean the removed cover.** On the bench only, take the old RTV off the cover with the white bristle disc at about 15,000 rpm. No metal scrapers, wire wheels or other abrasive discs. Then wash the whole cover thoroughly so no grit from the disc is left anywhere on it, and dry it.
 
 3. **Clean the engine faces by hand.** On the block, both heads and the front of the oil pan, no bristle disc, no wire brush, no power abrasive of any kind. Stuff clean lint-free towels into the openings first. Scrape off the big chunks with plastic, put silicone gasket remover on and let it sit a few minutes, wipe it off, and do a second round if any RTV is left. Get the old RTV that squeezed onto the inside faces of the block and heads too. Finish with metal surface prep to take off the last oil film. Staining is normal; don't chase shiny metal. Lift the towels out slowly so nothing drops in.
+   Spend the extra time on the four T-joints where the heads meet the block. The two at the top of the block are the most common leak spot on this engine; clean them, blow out the seam, and clean them again just before the RTV goes on (from FordTechMakuloco's video).
+   The video cleans the engine side with a razor blade, a red Scotch-Brite pad and brake cleaner. Ford rules out abrasives on the engine faces, and its RTV prep says brake cleaner residue can make RTV fail unless it's washed off and followed by surface prep. Stick to the gasket remover and surface prep here. One commenter scratched both the cover and the block with a razor.
 
 4. **Check the two locating dowels.** Both must be fully seated in the block.
 
 5. **Radial seal, only if it came out.** If you removed the cover's radial seal, press a new one in from the back side of the cover with 205-149 (Ford figure N0174428 in "Engine Front Cover – Installation"). If it never came out, leave it.
+   Put it in the cover, not on the tube. Part 2 of the video shows the seal pushed onto the block's coolant tube first, and Part 4 shows it pressed into the cover; Ford and Part 4 agree on the cover. Commenters who put it on the tube first tore it sliding the cover on. Press it until it bottoms with a driver wider than the seal (common report in the video comments).
 
 6. **Rehearse.** Hang the cover on the dowels dry once, start a couple of first-group bolts by hand, and take it back off. Lay the first-group bolts (1, 2, 7, 8, 15, 17, 18, 19, 20, 21) where your hand finds them in order. Have the torque wrench set to 10 Nm.
+   Pull every rag out of the timing area and take the crank turning bolt out so the cover can slide over the crank nose. A long bar laid across the engine holds the hose that hangs in the way so you have both hands for the cover (from FordTechMakuloco's video). Another trick from the video comments: thread two or three home-made guide studs (long bolts with the heads cut off and a screwdriver slot) into cover holes so the cover slides straight on without smearing the bead, then swap them for the real bolts.
 
 7. **Lay the RTV.** Start the timer with the first squeeze. Run a 3.0 mm (0.11 in) bead along the inside edge of the cover's sealing surface, including around the 2 bolt bosses Ford marks. Then put a heavier 5.5 mm (0.21 in) bead at the 5 joint spots Ford marks: where the oil pan meets the block and where each head meets the block (Ford figure N0130510 in "Engine Front Cover – Installation").
+   Run the bead inside the bolt holes, in one continuous line, and don't smear it; the bolts spread it (from FordTechMakuloco's video). A video comment quotes an earlier revision of Ford's manual with a 4-minute window for the first group. The 2013 procedure this guide follows says 10 minutes. If your copy of the manual says 4, use 4.
 
 8. **Hang the cover and run the first group, three stages, inside 10 minutes.** Slide it straight onto the dowels. Start bolts 1, 2, 7, 8, 15, 17, 18, 19, 20 and 21 (Ford figure N0130115 in "Engine Front Cover – Installation").
    - **Stage 1:** bolts 1, 2, 7, 8, 15, 17, 18, 19, 20, 21 in Ford's sequence to 10 Nm (89 lb-in)
@@ -48,7 +59,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
    - **Stage 3:** bolt 22 alone to **10 Nm (89 lb-in), then +45°**. Bolt 22 never sees 20 Nm.
    The engine mount bracket bolts also have to be in and tight inside this same 35 minutes.
    From bag B04-15: 11 × 13 mm, 10 Nm, then 20 Nm + 45°
-   From bag B04-16: bolt 22, the small 8 or 10 mm bolt, 10 Nm + 45°
+   From bag B04-16: bolt 22, the small 8 mm bolt, 10 Nm + 45°
 
 10. **Generator harness.** Slip the generator harness bracket over the front cover stud bolt, then push the black harness clip into its hole on the lower edge of the cover until it clicks flat (Ford figure N0121562). Keep the harness clear of where the crank pulley will spin.
 

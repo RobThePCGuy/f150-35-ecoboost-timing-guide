@@ -2,6 +2,10 @@
 
 Both valve covers go back on with new gaskets and fresh RTV at the front-cover joints, and everything that lives on top of them gets hooked back up: VCT solenoid plugs, harness clips, the RH cam sensors, the PCM plug, the wastegate hoses and the CAC tube brackets. Coils, the fuel pump, the intake and the air pipes come back in Stage 14. Keep the Ford procedures open alongside this page for the diagrams and exact wording.
 
+**Video:**
+- [Part 2 at 31:00](https://youtu.be/k4bUkK9eqKk?t=1860) — cleaning the cover grooves, greasing the tube seals and seating the new gaskets
+- [Part 4 at 8:00](https://youtu.be/dzb0PMI5v78?t=480) — RTV at the four front-cover T-joints and setting the covers
+
 **Have open:** Ford workshop manual, Section 303-01A: Valve Cover – LH (Installation); Valve Cover – RH (Installation).
 
 **Tools / parts / time limits:**
@@ -16,11 +20,13 @@ Both valve covers go back on with new gaskets and fresh RTV at the front-cover j
 ### LH cover
 
 1. **Seals, only if needed.** If you removed damaged spark plug tube seals or VCT solenoid seals from the LH cover, press new ones in now with the seal installers. Undamaged seals stay put.
-2. **Clean and dry-fit.** Put the new gasket in the cover's groove. Make sure the front-cover-to-head joints are clean and oil-free. Set your timer and have all 11 bolts within reach before you open the RTV.
+   A thin film of grease on the spark plug tube seals lets the cover slide down the tubes without rolling them (from FordTechMakuloco's video). Check every tube seal is fully seated afterward; a seal that isn't seated lets oil into the plug well.
+2. **Clean and dry-fit.** Clean the old oil out of the groove with air and a swab dampened with cleaner. Find the straight section of the new gasket with a small mark at each end; that's the gasket's end. Start at the front corners, press the gasket in at the molded curves first, then work the straight runs in, and go around once more to make sure it's fully seated so it can't fall out (from FordTechMakuloco's video). Put the new gasket in the cover's groove. Make sure the front-cover-to-head joints are clean and oil-free. Set your timer and have all 11 bolts within reach before you open the RTV.
 3. **RTV at the joints.** Lay an 8 mm (0.31 in) bead of TA-357 on the two spots where the front cover meets the LH cylinder head (Ford figure N0120133 in "Valve Cover – LH, Installation"). Start the timer.
 4. **Set the cover and torque it.** Lower the cover straight down so the gasket doesn't roll, start all 11 bolt-and-sleeve assemblies by hand, then tighten to **10 Nm (89 lb-in)** in Ford's sequence (Ford figure N0124241 in "Valve Cover – LH, Installation"). If you blow past 4 minutes, pull the cover, scrape off the RTV, clean with gasket remover and surface prep, and start over. `From bag B03-18`
 5. **Check the VCT seals.** Look down each of the 2 round VCT holes. The rubber seal should sit around the solenoid's plastic connector collar with its top edge below the top of the collar (Ford figure N0124002). If one has rolled up onto the connector, press it down evenly all the way around with your thumb. No screwdrivers; they tear the lip. A seal riding high leaks oil.
 6. **Harness clips.** Each clip pushes into a hole in the cover or down over a stud. Line it up square, press it in with your thumb until it snaps flat, then tug. A clip that spins or pulls out has broken barbs; replace it.
+   These clips aren't sold on their own. A common fix is to drill a small hole in the clip base and hold the harness with a zip tie (common report in the video comments).
 7. **VCT plugs.** Connect the 2 LH VCT solenoid plugs, each to the solenoid its wire runs to, push until it clicks and tug to confirm. Add a new zip tie where the old one was cut (Ford figure N0146628 in "Valve Cover – LH, Installation").
 8. **CAC tube bracket.** Fit the bracket and run both nuts on by hand. Torque the small M6 nut to **6 Nm (53 lb-in)** and the large M10 nut to **48 Nm (35 lb-ft)**. Use the inch-pound wrench on the small one; it strips easily (Ford figure N0128827). `From bags B03-16 and B03-17`
 9. **Wastegate hose.** Push the small rubber hose straight over the nipple on the round wastegate actuator until it bottoms; a slight twist helps (Ford figure N0146624). There's no clamp. Tug it. A loose hose here sets a boost fault.

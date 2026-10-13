@@ -36,11 +36,13 @@ Reference: [TORQUE.md](TORQUE.md) (every torque, angle and sealant window) · [B
 
 FordTechMakuloco's series on this engine. Watching each part before the matching stages helps a lot.
 
-- [Part 1: Getting Inside the Engine](https://youtu.be/Va6sVtzRZAo) (Stages 2–4)
-- [Part 2: Removing Valve Train Components](https://youtu.be/k4bUkK9eqKk) (Stages 5–7)
+- [Part 1: Getting Inside the Engine](https://youtu.be/Va6sVtzRZAo) (Stages 3–4, plus the flare nut from Stage 2)
+- [Part 2: Removing Valve Train Components](https://youtu.be/k4bUkK9eqKk) (Stages 5 and 7, then the cleanup and prep the guide does in Stages 11–14: front cover, crank seal, water pump, valve covers, fuel pump plate, intake gaskets)
 - [Part 3: Timing the Engine](https://www.youtube.com/watch?v=3Mvo5yiJzvM) (Stage 10)
-- [Part 4: Reassembling the Engine](https://youtu.be/dzb0PMI5v78) (Stages 11–15)
-- [Oil Pump Upgrade Without Oil Pan Removal](https://youtu.be/NJ2PYXTVjkI): a different method from this guide, which follows Ford's procedure with the pan off (Stages 6–9). Pick one method and stick with it.
+- [Part 4: Reassembling the Engine](https://youtu.be/dzb0PMI5v78) (end of Stage 10, then Stages 11–15)
+- [Oil Pump Upgrade Without Oil Pan Removal](https://youtu.be/NJ2PYXTVjkI) (Stages 6 and 8): a different method from this guide, which follows Ford's procedure with the pan off. The pump-and-pickup parts still apply; the pan, axle and Stage 9 steps don't. Pick one method and stick with it.
+
+The series doesn't replace the oil pump or the secondary tensioners in the main four parts, and it does a few things differently from Ford. Each stage page links the exact spots and notes where the video and Ford disagree.
 
 ## Notes
 

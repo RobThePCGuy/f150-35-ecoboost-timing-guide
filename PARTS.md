@@ -7,7 +7,7 @@ Written for a 2011–2014 F-150 3.5L EcoBoost. Confirm fitment by your VIN befor
 | Part | Number | Notes |
 |---|---|---|
 | Timing chain kit | Cloyes **9-0738SAVVT3** | 3 chains, crank and idler sprockets, 6 guides, primary + 2 secondary tensioners, 4 phasers, 4 VCT solenoids, 4 phaser bolts, and a new timing chain gear (the chain-driven housing Ford calls the "timing chain gear") with its gasket. No crank bolt. |
-| Oil pump | Melling **M390HV** (high volume) or an OE-style pump | Follow the pump maker's sheet. Don't change the relief spring. |
+| Oil pump | Melling **M390HV** (high volume) or an OE-style pump | Follow the pump maker's sheet. Don't change the relief spring (the video does; see Stage 8). Buy from a known seller; knock-off M390HV pumps have been reported on auction sites (from the video comments). |
 
 ## Order these
 
@@ -20,9 +20,9 @@ Written for a 2011–2014 F-150 3.5L EcoBoost. Confirm fitment by your VIN befor
 | Oil pickup O-ring | 1 | Ford **5F9Z-6625-AA** | Always new. |
 | Timing cover / cooling seal set | 1 | **Mahle JV5182** | Crank front seal, front cover radial seal, **all 6 intake manifold gaskets**, thermostat housing gasket and O-rings, coolant pump gaskets and O-ring. The Fel-Pro TCS46182 leaves out the intake gaskets. |
 | Valve cover gasket set | 1 | **Fel-Pro VS50879R** or **Mahle VS50685** | Both covers, spark plug tube seals, fuel pump mounting plate seals. The Mahle set also has the 4 VCT solenoid seals. |
-| RTV | 3 | Motorcraft **TA-357** (Ford spec WSE-M4G323-A6), or Permatex Ultra Grey 82194 | Front cover, oil pan, valve cover joints. |
+| RTV | 3 | Motorcraft **TA-357** (Ford spec WSE-M4G323-A6) | Front cover, oil pan, valve cover joints. Ford warns that any other RTV can make the oil foam and damage the engine, and the video says the same; don't substitute. |
 | Gasket remover | 1–2 | Motorcraft ZC-30-A or CRC 5021 | |
-| Surface prep | 1–2 | Motorcraft ZC-31-B, or non-chlorinated brake cleaner | Clean, oil-free sealing surfaces before RTV. |
+| Surface prep | 1–2 | Motorcraft ZC-31-B | Clean, oil-free sealing surfaces before RTV. Ford's RTV prep says brake cleaner residue can make RTV fail unless it's washed off before the surface prep, so don't use brake cleaner as the last wipe. |
 | Oil, 5W-30 | 7 qt | Motorcraft 5W-30 (WSS-M2C961-A1 or later) | 6.0 qt fill with filter, plus pump priming and top-off. |
 | Oil filter | 1 | Motorcraft **FL-500S** | |
 | Coolant, Motorcraft Yellow | ~3 gal mixed | **VC-13-G** concentrate (mix 50/50 with distilled water) and/or **VC-13DL-G** premixed | Ford approves Motorcraft Yellow for servicing the factory Orange. 1 gal concentrate + 1 gal distilled water + 1 gal premixed = 3 gal. |

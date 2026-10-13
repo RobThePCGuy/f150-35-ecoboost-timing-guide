@@ -4,6 +4,11 @@ Now you strip each cylinder head's front end: the upper LH guide, both pairs of 
 
 Photograph and label each bank before you take anything apart.
 
+**Video:**
+- [Part 2 at 12:00](https://youtu.be/k4bUkK9eqKk?t=720) — breaking the torque-to-yield phaser bolts with the holding plate on
+- [Part 2 at 14:00](https://youtu.be/k4bUkK9eqKk?t=840) — compressing the secondary tensioner with the hold-down and lifting the phasers off as a pair
+- [Part 2 at 16:00](https://youtu.be/k4bUkK9eqKk?t=960) — post-check of where each cam's dowel sits on both banks
+
 **Have open:** Ford workshop manual, Section 303-01A: Timing Drive Components – Removal (steps 17–31).
 
 **Tools / parts / time limits:**
@@ -19,8 +24,9 @@ Photograph and label each bank before you take anything apart.
    Bag B07-01: 1 × 8 mm, back in Stage 10, 10 Nm
 2. **Hold the LH secondary tensioner collapsed.** The upper plastic shoe rides on the tensioner plunger under the secondary chain. Press it down toward the tensioner body with your thumb on the chain or a blunt plastic tool. While you hold it, drop the 303-1530 through the hole in the top of the LH mega cap so its tip goes into the hole in the back of the shoe. Let go; the tool now braces against the cap. Don't pry on phaser teeth. (Ford figure N0118130 in "Timing Drive Components – Removal")
 3. **Remove the 2 LH phaser bolts** and drop them in the OLD box. The 303-1248 plate is holding the cams, so don't lean on it as a brace. (Ford figure N0118536 in "Timing Drive Components – Removal")
+   These bolts are very tight. Use a TP55 Torx Plus socket on a long breaker bar. A plain T55 fits loose; commenters stripped bolt heads with one, and others broke tensioners and guides with an impact gun. Heat helped on stuck bolts. Expect the holding plate to try to lift as the bolt breaks loose; hold it down firmly by hand (common report in the video comments).
    Bag B07-02: 2 × TP55, discard; new bolts from the Cloyes kit go in at Stage 10, 40 Nm, back off one turn, 25 Nm, then +180°
-4. **Lift off both LH phasers with the secondary chain** as one unit. Keep them together in the LH tray. (Ford figure N0118537 in "Timing Drive Components – Removal")
+4. **Lift off both LH phasers with the secondary chain** as one unit. They fit the cams closely, so walk both off evenly together (from FordTechMakuloco's video). Keep them together in the LH tray. (Ford figure N0118537 in "Timing Drive Components – Removal")
 5. **Hold the RH secondary tensioner collapsed** exactly as on the LH side, with the 303-1530 dropped through the RH mega cap into the back of the shoe. (Ford figure N0118538 in "Timing Drive Components – Removal")
 6. **Remove the 2 RH phaser bolts** into the OLD box. (Ford figure N0118540 in "Timing Drive Components – Removal")
    Bag B07-03: 2 × TP55, discard; new bolts from the Cloyes kit go in at Stage 10, 40 Nm, back off one turn, 25 Nm, then +180°
@@ -37,7 +43,8 @@ Photograph and label each bank before you take anything apart.
     Bag B07-07: 1 × 8 mm, back in Stage 10, 8 Nm + 20°
 14. **Remove the RH lower tensioner shoe** by sliding it off the base of the body. (Ford figure N0118611 in "Timing Drive Components – Removal")
 15. **Remove the RH secondary tensioner**: push up from the bottom, lift out, rock gently if needed. OLD box. (Ford figure N0118613 in "Timing Drive Components – Removal")
-16. **Match old to new.** Lay each removed part beside its replacement from the kit and confirm they're the same shape and fit before you start rebuilding.
+16. **Cross-check the cam dowels.** With the plates still on, the video's check: on the RH (passenger) bank the intake dowel sits at 12 o'clock and the exhaust at 3 o'clock; on the LH (driver) bank the intake at 12 and the exhaust at 9 (from FordTechMakuloco's video). If yours don't match, stop.
+17. **Match old to new.** Lay each removed part beside its replacement from the kit and confirm they're the same shape and fit before you start rebuilding.
 
 ## Done when
 - Both phaser pairs and secondary chains off, kept by bank

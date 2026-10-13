@@ -2,6 +2,8 @@
 
 Bleed off both fuel systems and cut battery power. This engine has a low-pressure side fed by the tank pump and a high-pressure side (direct injection) fed by the cam-driven pump on the LH valve cover. The high side can hold pressure long after shutdown, so you open it on purpose under a towel before touching any fuel line.
 
+**Video:** [Part 1 at 21:00](https://youtu.be/Va6sVtzRZAo?t=1260) — cracking the 17 mm flare nut under a shop towel and taking off the 8 mm bracket nut (he does this during intake removal; the fuel had already bled down)
+
 **Have open:** Ford workshop manual, Section 310-00: Fuel System Pressure Release; Section 414-01: Battery Disconnect and Connect.
 
 **Tools / parts / time limits:**

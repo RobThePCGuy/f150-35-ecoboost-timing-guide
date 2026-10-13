@@ -4,6 +4,12 @@ With the front cover sealed, the front of the engine gets its parts back: a new 
 
 Keep the Ford procedure open beside this page for the diagrams and exact wording; this page tells you how we did it and where the traps are.
 
+**Video:**
+- [Part 2 at 22:00](https://youtu.be/k4bUkK9eqKk?t=1320) — knocking out and installing the crank seal (he does it on the bench; see step 1)
+- [Part 4 at 9:00](https://youtu.be/dzb0PMI5v78?t=540) — tapping the pulley on, drawing it down with the old bolt, then the new bolt's torque stages
+- [Part 4 at 23:00](https://youtu.be/dzb0PMI5v78?t=1380) — alternator back in and rolling the A/C stretch belt on with a zip tie
+- [Part 4 at 26:00](https://youtu.be/dzb0PMI5v78?t=1560) — water pump and thermostat housing torque
+
 **Have open:** Ford workshop manual, Section 303-01A: Crankshaft Front Seal – Installation; Crankshaft Pulley – Installation; Engine Front Cover – Installation (steps 11–14). Section 303-03: Coolant Pump — 3.5L GTDI, 3.7L (Installation); Thermostat Housing — 3.5L GTDI (Installation). Section 303-05: Air Conditioning (A/C) Compressor Belt — 3.5L GTDI, 3.7L, 5.0L (Installation, the early-build branch that covers the 3.5L).
 
 **Tools / parts / time limits:**
@@ -20,12 +26,14 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 ## Steps
 
 1. **New crank front seal.** Oil the seal bore in the front cover, staying off the RTV joints. Press the new seal in square with 303-1251 and 303-102 (Ford figure N0114361 in "Crankshaft Front Seal – Installation").
+   The video does this on the bench before the cover goes on, and greases the seal's outer edge. Ford installs it with the cover on the engine and oils the bore; follow Ford, so the cover's RTV isn't disturbed by hammering. Either way the seal ends flush with the front face of the cover, even all the way around. If you use anything but Ford's installer, check the garter spring inside the lip is still in place afterward, and if the seal starts in crooked, pull it and start over (from FordTechMakuloco's video).
 
 2. **Oil the seal lip and pulley.** Wipe clean oil on the inner lip of the new seal and on the pulley's outer sealing surface. Again, none on the RTV.
 
 3. **Press the pulley on.** Use 303-335 and 303-102 to draw the pulley onto the crank nose (Ford figure N0120136 in "Crankshaft Pulley – Installation").
+   Without the installer, the video taps the pulley on with a large socket on its center hub until the old bolt and washer can reach, draws it the rest of the way with the old bolt, then swaps in the new bolt (from FordTechMakuloco's video). The pulley is a press fit with no key.
 
-4. **New pulley bolt, four stages.** Wrap the 303-D055 strap around the pulley rim so it stops the pulley turning clockwise. Have a helper hold the handle or brace it against a solid frame point, fingers out of the pinch. Put on the original washer, same face toward the pulley as it came off, then the new bolt (Ford figure N0120135):
+4. **New pulley bolt, four stages.** Wrap the 303-D055 strap around the pulley rim so it stops the pulley turning clockwise. Have a helper hold the handle or brace it against a solid frame point, fingers out of the pinch. Holding the crank for this torque is the step most DIYers say they struggled with; a good strap wrench is what worked for them (common report in the video comments). Put on the original washer, same face toward the pulley as it came off, then the new bolt (Ford figure N0120135):
    - Stage 1: 120 Nm (89 lb-ft)
    - Stage 2: back it off one full turn
    - Stage 3: 50 Nm (37 lb-ft)
@@ -36,6 +44,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
    From bag B04-08
 
 6. **Generator stud and generator.** Thread the stud back in, the same end into the engine as it came out, to 8 Nm (71 lb-in). Swing the generator back into place and torque its bolt to 48 Nm (35 lb-ft).
+   Make sure the adjuster sleeve in the lower ear was tapped back out (Stage 4) so the long bolt pulls the generator in square (from FordTechMakuloco's video).
    From bag B04-07 (stud) and bag B04-06 (generator bolt)
 
 7. **Coolant pump.** Fit the new O-ring in the pump and wet it with clean coolant. Put the new gasket on, press the pump over the channel cover plate snout sticking out of the front cover, and start all 7 bolts by hand. Torque in Ford's sequence to 10 Nm (89 lb-in), then around the sequence again +45° each (Ford figure N0129613 in "Coolant Pump – Installation").
@@ -66,6 +75,8 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 
 18. **Torque the coolant pump pulley.** Now that the belt holds it, the 4 pulley bolts go to 25 Nm (18 lb-ft). Write it down.
     From bag B04-04
+
+    Optional while it's open: the video also replaces the two O-rings on the coolant transfer tube that runs to the rear crossover, lubricated with coolant only.
 
 19. **Leave fluids out.** No coolant fill or bleed, no oil fill yet. Those wait for Stage 15.
 

@@ -2,6 +2,12 @@
 
 This stage closes up the top of the engine: all six coils, the high-pressure fuel pump and its fittings, the intake manifold with new gaskets, and every pipe, hose, clamp and connector up top. The battery and the fuel pump control module (FPCM) stay disconnected until Stage 15. Keep the Ford procedures open alongside this page for the diagrams and exact wording.
 
+**Video:**
+- [Part 2 at 33:00](https://youtu.be/k4bUkK9eqKk?t=1980) — cleaning the fuel pump mounting plate and fitting its new seal
+- [Part 2 at 36:00](https://youtu.be/k4bUkK9eqKk?t=2160) — cleaning the intake ports and fitting the new intake gaskets
+- [Part 4 at 12:00](https://youtu.be/dzb0PMI5v78?t=720) — finding the base circle of the pump lobe by feel
+- [Part 4 at 14:00](https://youtu.be/dzb0PMI5v78?t=840) — tappet, plate and pump in, then the flare nut at 20:00
+
 **Have open:** Ford workshop manual: Ignition Coil-On-Plug (Removal and Installation); Fuel Injection Pump (Removal and Installation); Section 303-01A: Intake Manifold (Installation); Section 303-12: Intake Air System Components – Exploded View, 3.5L; Air Cleaner Outlet Pipe; Section 310-00: Quick Connect Coupling.
 
 **Tools / parts / time limits:**
@@ -26,8 +32,11 @@ This stage closes up the top of the engine: all six coils, the high-pressure fue
 ### Fuel pump
 
 6. **Take the plate off the pump bore.** Remove the mounting plate bolt and lift off the pump mounting plate so you can see the bore. `Bag B14-01: 1 × T30 bolt and plate; plate goes back in steps 10–11, bolt torqued in step 12 to 10 Nm`
+   Clean the old seal groove in the plate with air. The new plate seal has a locating nub that only fits one way (from FordTechMakuloco's video).
 7. **Put the cam at BDC.** Breaker bar on the crank pulley bolt, turn **clockwise only** (standing in front of the truck). Shine a light down the pump bore and watch the lobe. Stop when it's at its lowest point with the round base of the cam facing up (Ford figure E182512 in "Fuel Injection Pump – Installation"). Overshot it? Keep going clockwise to the next low point. Never back up.
+   Tip: feel it with a finger. The flat ramps lead up to a narrow nose; keep turning until your finger finds the round section opposite the nose (from FordTechMakuloco's video).
 8. **Tappet.** Oil the pedestal bore, the cam lobe and the roller tappet with clean engine oil, then drop the tappet in. `From bag B03-12`
+   The tappet has a notch on one side that matches a key in the bore; it only goes in one way (from FordTechMakuloco's video).
 9. **Seals.** Inspect the mounting plate seal and its 2 O-rings; replace any that are nicked or flattened. Oil them all. Oil the new pump O-ring and fit it on the pump.
 10. **Assemble.** Wipe both mating faces clean. Fit the mounting plate onto the pump and put the 2 new pump bolts through both.
 11. **Seat the pump evenly.** Set the pump and plate on the pedestal and start the 2 new bolts and the plate bolt loosely. Bring the pump bolts down one full turn each, alternating, until the pump is seated. Then torque each to **20 Nm (177 lb-in)**, then turn each **an additional 45°** (Ford figure E182903 in "Fuel Injection Pump – Installation"). `From bag B03-11 (new bolts)`
@@ -42,7 +51,7 @@ This stage closes up the top of the engine: all six coils, the high-pressure fue
 ### Intake manifold
 
 19. **Check for debris.** If this engine ever had valve or piston damage, look inside the manifold for metal. Any metal means a new manifold.
-20. **Manifold down.** Fit new gaskets, set the manifold, start all 8 bolts by hand (the 2 long ones go in their own holes), then torque to **10 Nm (89 lb-in)** in Ford's sequence and turn each **an additional 45°** in the same order (Ford figure N0124240 in "Intake Manifold – Installation"). `From bags B03-07 and B03-08`
+20. **Manifold down.** Fit new gaskets, set the manifold, start all 8 bolts by hand (the 2 long ones go in their own holes), then torque to **10 Nm (89 lb-in)** in Ford's sequence and turn each **an additional 45°** in the same order (Ford figure N0124240 in "Intake Manifold – Installation"). Before it goes down, press each new gasket in evenly with no bulge anywhere (a raised spot leaks vacuum or boost), and shine a light into the plenum; it's one open box, so a dropped bolt sits there (from FordTechMakuloco's video). `From bags B03-07 and B03-08`
 21. **Vacuum regulator.** Line the regulator's hole up and push the pin through until the head sits flat; if it has a center plunger, pull it up first and press it flush after. Use a new pin if the old one's legs broke (Ford figure N0128847). `From bag B03-06`
 22. **Harness clip.** Push the T-shaped harness clip's stem into its boss on the manifold until it snaps (Ford figure N0148681).
 23. **Appearance cover bracket.** Install the bracket and 3 bolts at **10 Nm (89 lb-in)**. `From bag B03-05`

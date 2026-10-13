@@ -14,6 +14,7 @@ The truck runs and the relearn is done. Now prove the repair fixed the complaint
 1. **Easy road test.** Drive it gently first: normal throttle, no towing, no hard boost. Watch the gauges and listen. Note mileage, route and conditions.
 2. **Look underneath after.** Park, let it sit a few minutes, then check under the front cover, oil pan, valve cover edges, fuel pump area, coolant pump and hoses for drips or seepage.
 3. **Scan.** Pull codes and save the scan. Confirm MP_LRN still reads YES and there's no P0315 or cam/crank correlation code.
+   If a cam/crank correlation code (P0016 to P0019) sets right after this job, the usual cause reported in the comments is a chain a tooth off, often from slack left on the LH side of the primary chain or the crank moving while the chain was off. Re-check the timing before replacing sensors or solenoids (common report in the video comments).
 4. **Cold soak.** Let it sit overnight, or as long as it sat when the rattle used to show up.
 5. **Cold start.** Start it cold and listen hard for the first few seconds, the way you heard the original rattle. Record the result, ambient temperature and how long it sat.
 6. **Recheck levels cold.** Oil by the engine-off method, coolant at the degas bottle marks. Top up as needed and record what you added.

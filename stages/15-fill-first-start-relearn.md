@@ -2,6 +2,8 @@
 
 Oil and coolant go in, the battery and fuel pump module get reconnected, you prove the fuel system holds pressure without leaking, and then you start the engine, bleed the cooling system and run the misfire relearn the PCM needs after a crank and timing job. Keep the Ford procedures open alongside this page for the diagrams and exact wording.
 
+**Video:** [Part 4 at 29:00](https://youtu.be/dzb0PMI5v78?t=1740) — oil and coolant fill, cranking with the fuel pump fuse out to build oil pressure, first start and the leak check
+
 **Have open:** Ford workshop manual: Section 303-01A: Engine Front Cover (Installation, oil fill step); Engine Cooling System Draining, Filling and Bleeding (degas bottle, without a vacuum filler); Fuel System Pressure Release; Battery Disconnect and Connect; Section 303-01A: Crankshaft Pulley (Installation, final step). The owner's manual oil-check pages.
 
 **Tools / parts / time limits:**
@@ -21,10 +23,11 @@ Oil and coolant go in, the battery and fuel pump module get reconnected, you pro
 5. **Heater settings.** Set heat to max temperature, blower to max, air to the dash vents.
 6. **Cap on.** Reinstall the degas cap tightly with the engine cold. Never open it once the engine is warm.
 7. **Battery.** Reconnect the negative cable and torque the clamp nut to **5 Nm (44 lb-in)**. `From bag B02-03`
+   Optional oil prime, before the FPCM goes back on: with the FPCM still unplugged the engine has no fuel supply and shouldn't fire, so crank it about 10 seconds at a time, a few times with rests between, and watch the oil pressure gauge come up. The video does the same thing by pulling the fuel pump fuse (fuse 27 on his truck) and needed about three tries (from FordTechMakuloco's video). If the gauge doesn't rise, don't start it. People who hit that traced it to a clogged pickup or an under-primed pump, and very cold oil can keep the gauge low on cranking (common report in the video comments).
 8. **FPCM.** The fuel pump control module sits on the frame rail above the spare tire. Push its plug on until it clicks and tug; if it has a colored slide lock, push it home (Ford figure N0121097 in "Fuel System Pressure Release").
 9. **Pressurize and look for leaks.** Turn the key to run (don't crank), wait 3 seconds, off, and repeat a few times; it can take more than one cycle to build pressure. With a light, check the high-pressure flare nut, the pump inlet coupling and every fuel joint you touched. Any wet spot: stop.
 10. **Pre-start checklist.** Oil and coolant levels good, timing verified, critical fasteners torqued and logged, fixtures out, every connector, hose, ground and belt on, no rags or caps, 90-minute oil wait met, fuel leak check passed. Mark it in your log.
-11. **First start.** Start it and let it idle. Watch the oil pressure light go out within a few seconds and listen. Look again at the fuel fittings with it running.
+11. **First start.** Start it and let it idle. Watch the oil pressure light go out within a few seconds and listen. The video's rule: if pressure doesn't show within about 2 seconds, shut it down. Look again at the fuel fittings with it running.
 12. **Bleed the cooling system.** At idle, feel for hot air at the vents. Let it reach operating temperature: hot air at the vents, temp gauge steady mid-NORMAL, upper radiator hose hot. If the air stays cool and the gauge doesn't move, the coolant is low. Shut down, let it cool, top up.
 13. **Cool and top up.** Shut off, let the engine cool fully, check the degas bottle and top up to the marks. Repeat the warm-up, cool-down and top-up cycle until the level stays put.
 14. **Recheck the oil** with the engine-off method from step 3.

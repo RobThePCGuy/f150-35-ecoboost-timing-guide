@@ -4,6 +4,8 @@ The oil pump bolts to the bottom of the block, so the pan has to come down. On a
 
 **2WD trucks:** this page follows Ford's 4X4 branch of Oil Pan – Removal. Open Ford's 4X2 branch and follow it in place of steps 11–15; check every other step against it too.
 
+**Video:** [Oil pump video at 2:00](https://youtu.be/NJ2PYXTVjkI?t=120) — a different method: pickup and pump out with the oil pan left on. The pickup and pump removal parts (3:00 to 13:00) still show the bolts and how to break the pump free
+
 **Have open:**
 - Ford workshop manual, Section 303-01A: Oil Pan – Removal (front cover already removed, 4X4)
 - Section 303-06: Starter Motor – Removal and Installation (steps 3–8)
@@ -62,11 +64,13 @@ The oil pump bolts to the bottom of the block, so the pan has to come down. On a
     Bag B06-20: 1 harness clip, back in Stage 9
 21. **Clean the pan.** On the pan only, use the white 3M Roloc bristle disc (07528) at about 15,000 rpm. No metal scrapers, wire brushes or other abrasive discs. Wash the pan thoroughly afterward so no grit stays in it.
 22. **Clean the block and front cover sealing faces by hand.** No bristle disc, wire brush or power abrasive here; the grit ends up in the engine. Scrape off the big chunks with plastic, soak with silicone gasket remover for several minutes, wipe it off, repeat if needed, then wipe with metal surface prep. Stained metal is fine; don't chase shiny.
-23. **Remove the crank sprocket.** Slide it off the crank nose. This covers the sprocket removal in the timing procedure too; don't look for it twice. (Ford figure N0148008 in "Oil Pump – Removal")
+23. **Remove the crank sprocket.** Slide it off the crank nose. Before it comes off, check the crank dot is still where it was in Stage 5. The most common timing mistake reported in the comments is the crank turning while the turning bolt comes out with the chain off; this is an interference engine, so if it moved, turn it back to the mark gently and never force it against a valve (common report in the video comments). This covers the sprocket removal in the timing procedure too; don't look for it twice. (Ford figure N0148008 in "Oil Pump – Removal")
 24. **Remove the pickup and screen** (3 bolts). Throw away the O-ring. (Ford figure N0120779 in "Oil Pump – Removal")
     Bag B06-21: 3 × 8 mm, back in Stage 8, 10 Nm
+    The oil pump video shows two 8 mm bolts at the pump end of the pickup. Ford counts three for the pickup, so find and bag all three before you pull it.
 25. **Remove the oil pump** (3 bolts). (Ford figure N0148009 in "Oil Pump – Removal")
     Bag B06-22: 3 × 8 mm, back in Stage 8, 10 Nm
+    Tip: the pump sticks to the block. Break the pickup O-ring loose first, then work the pump straight off evenly. Pry only on the plain cast area of the block. The machined face where the pump's oil outlet meets the block has no gasket; a pry mark there is a leak path, so pull that side by hand (from FordTechMakuloco's video).
 26. **Inspect the sump.** Look at what's in the pan and on the screen. Plastic bits are worn guide material and are expected. Metal flakes are not: stop and find where they came from before you rebuild. Bag anything you find.
 27. **Clean and check the original pickup for reuse.** Soak it in parts cleaner. Then spray cleaner and blow compressed air in through the tube end, so dirt goes back out the screen side instead of deeper in. Shine a light through the tube to confirm it's clear. Pass it only if the screen has no tears, holes, crushed spots or loose edges, the tube has no cracks, the bracket isn't bent, and the flange face is clean with no nicks. If any check fails, replace it with a Melling 397S. Let it dry completely. It goes back in Stage 8 with a new O-ring.
 
