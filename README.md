@@ -1,5 +1,7 @@
 # F-150 3.5L EcoBoost timing chain, phaser and oil pump guide
 
+**Read it as a website:** https://robthepcguy.github.io/f150-35-ecoboost-timing-guide/ (check off steps and bags as you go, or print the whole job).
+
 A step-by-step guide to replacing the timing chains, guides, tensioners, VCT phasers and solenoids, and the oil pump on a **2011–2014 Ford F-150 3.5L EcoBoost**. It was written from a completed job on a 2013 4WD. The truck runs strong afterward.
 
 It's built for doing the job at home: what to do at every step, how each clip and connector actually comes apart, every bolt bagged and tracked from the moment it comes out until it goes back in, and the misfire relearn at the end.
@@ -55,3 +57,7 @@ Ford, F-150, EcoBoost and Motorcraft are trademarks of Ford Motor Company. This 
 ## License
 
 [CC BY-SA 4.0](LICENSE)
+
+## The website
+
+`docs/` is built from these Markdown files with `node site/build.mjs` (no dependencies). Edit the Markdown, rebuild, commit both.
