@@ -14,9 +14,9 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
 
 ### Air pipes and intake manifold
 1. **Remove the engine appearance cover.** It lifts off its grommets. Put the oil fill cap back on right away so nothing falls in.
-2. **Remove the air cleaner outlet pipe and the RH air cleaner-to-turbo pipe.** Back off the worm clamps; don't take the screws all the way out. (Ford figure N0128843 shows the clamp style in "Intake Manifold – Removal".)
+2. **Remove the air cleaner outlet pipe and the RH air cleaner-to-turbo pipe.** Back off the worm clamps; don't take the screws all the way out.
    Bag B03-01: 5 clamps (8 mm, stay on pipes), back in Stage 14, 5 Nm (44 lb-in).
-3. **Disconnect the charge air cooler (CAC)-to-throttle body pipe.** Loosen the band clamp at the throttle body, twist the rubber end to break it loose, pull it off.
+3. **Disconnect the charge air cooler (CAC)-to-throttle body pipe.** Loosen the band clamp at the throttle body, twist the rubber end to break it loose, pull it off. (Ford figure N0128843 in "Intake Manifold – Removal".)
    Bag B03-02: 1 clamp (8 mm, stays on pipe), back in Stage 14, 5 Nm (44 lb-in).
 4. **Unplug the throttle body.** Press the tab and pull the connector straight off. Pop the harness push pin below it out with a trim tool. (Ford figure N0128846.)
 5. **Remove the PCV tube** (quick connects, fingers only).
@@ -39,7 +39,7 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
 13. **Remove the fuel pump noise shield.** Spread its openings a little as you lift; it tears easily.
     Bag B03-10: noise shield, back in Stage 14.
 14. **Unplug the fuel pump.** Release any colored lock, press the tab, pull straight off. Don't rock it; the socket is part of the pump.
-15. **Disconnect the low-pressure fuel jumper at the pump.** Blow it clean. The coupling has a lock tab on top: press it down with your thumb and pull straight off, no tools. (Ford figure N0161331 in "Quick Connect Coupling".) Cap both ends. Fuel pressure was already relieved in Stage 2.
+15. **Disconnect the low-pressure fuel jumper at the pump.** Blow it clean. The coupling has a lock tab on top: press it down with your thumb and pull straight off, no tools. (Ford figure N0161331 in "Fuel Injection Pump – Removal"; match the coupling type on your truck to Ford's "Quick Connect Coupling" procedure before you press anything.) Cap both ends. Fuel pressure was already relieved in Stage 2.
 16. **Check the flare nut.** It was opened in Stage 2 and the bracket nut is already gone. Confirm the tube end is capped; don't touch it again. Opening only the pump end allows the tube to be reused.
 17. **Remove the pump.** Loosen the 2 bolts one full turn at a time, alternating, so the cam lobe pushes the pump out evenly. Lift the pump off. Throw away both bolts and the O-ring.
     Bag B03-11: 2 × 10 mm, NEW at Stage 14, run down evenly one turn at a time until seated, then 20 Nm + 45°.
@@ -49,7 +49,7 @@ Clear the top of the engine: the intake pipes, the intake manifold, the high-pre
 ### Coils
 19. **Cut the tie strap** holding the turbo regulator hoses at the valve cover.
 20. **Disconnect the 2 turbo regulator hoses.** Photograph first. Twist each hose to break it loose and pull straight off the nipple; don't bend it sideways.
-21. **Remove the crankcase vent tube (2 quick connects).** Trace both ends first; don't assume it's the PCV tube you already pulled. If it's already off, note that and move on. Far end first, then the valve cover end.
+21. **Remove the crankcase vent tube (2 quick connects).** Trace both ends first; don't assume it's the PCV tube you already pulled. If it's already off, note that and move on.
     Bag B03-13: vent tube, back in Stage 14.
 22. **Blow out all 6 coil wells** with compressed air before anything comes out.
 23. **Unplug the 6 coils.** Slide each connector's lock back toward the wires until it stops, press the tab, pull straight off. If it won't release, the lock isn't all the way back.

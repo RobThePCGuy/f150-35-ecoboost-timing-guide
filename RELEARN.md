@@ -23,7 +23,7 @@ Ford's Crankshaft Pulley procedure (installation, last step) requires a scan-too
 
 - **The procedure exists, and that's its exact name.** FORScan release 2.3.42 (August 21, 2021) added the PCM service function "Misfire Monitor Neutral Profile Correction" for "multiple Ford models with gasoline engine 2010+ model year (if your car has no such function and you believe it must be available, please contact support)". Later releases added more models and a separate "Clearing Misfire Monitor Profile Correction Data" function.
 - **The mobile app has it.** A FORScan forum moderator (Ecmbuster, August 2023) posted the steps under "Service Procedures > PCM Misfire Monitor Neutral Profile Correction". He attached two guides: one for FORScan on a PC and one titled "Ford Misfire Monitor Neutral Profile Correction-Android.pdf" for FORScan Lite. FORScan's comparison page says Lite on iOS and Android has service functions "except most dangerous". This one isn't in that group.
-- **Windows FORScan has it too**, but it doesn't matter for you. FORScan supports only Windows on x86, not ARM, and you don't own an x86 PC.
+- **Windows FORScan has it too**, but FORScan for Windows runs only on x86 (Intel/AMD) PCs, not ARM machines such as Apple Silicon Macs. If you have an x86 Windows laptop, that works as well.
 - **Not proven for your truck:** I found no post confirming this function runs on a 2011 to 2014 F-150 PCM specifically. FORScan's own notes admit that some PCMs it covers don't actually support the function (for example, a 2015 Focus PCM, removed in a later release). One Fusion owner got "service procedure interrupted" every time he tried. That's why there's a check to do before teardown (below).
 - An old 2018 FORScan thread and an f150forum post say "FORScan can't do it". Both are out of date. They were written before version 2.3.42.
 
@@ -45,7 +45,7 @@ Ford's road method is real. It's in Ford's OBD manual, and Ford left it active "
 ## Steps for you
 
 **Before teardown (5 minutes, proves the tool can do it):**
-1. Put FORScan Lite on your iPhone or Android. Either works with the MX+.
+1. Put FORScan Lite on an iPhone or Android phone. Either works with the MX+.
 2. Plug in the MX+, key on, connect, and let it find the modules.
 3. Open Service procedures and look for PCM "Misfire Monitor Neutral Profile Correction". Screenshot the list and the PCM ID. Don't start it.
 4. In live data, look for the PID **MP_LRN**. It should read YES now. Screenshot it.
@@ -55,7 +55,7 @@ Ford's road method is real. It's in Ford's OBD manual, and Ford left it active "
 1. Start the truck and let it reach full operating temperature: radiator fan cycling, coolant well above 176°F. Fuel above 1/4 tank.
 2. Park, A/C and defrost off, lights and accessories off, no one in the way. Clear any codes the repair left behind.
 3. FORScan Lite > Service > PCM "Misfire Monitor Neutral Profile Correction" > start. Accept the warnings and check that it shows a sensible engine temperature.
-4. Do what the screen asks. On Fords that means raising the revs to the number shown (around 3,000 rpm) and then letting go back to idle, over and over, until its countdown reaches 0 and it says complete. Ford's version learns while the engine coasts down from those revs with fuel cut.
+4. Do what the screen asks. On Fords that means raising the revs to the number shown on screen and then letting go back to idle, over and over, until its countdown reaches 0 and it says complete. Ford's version learns while the engine coasts down from those revs with fuel cut.
 5. Check that **MP_LRN = YES**, read codes (there should be none, especially no P0315), and screenshot the result for the work log.
 6. Drive normally for a day and recheck codes.
 

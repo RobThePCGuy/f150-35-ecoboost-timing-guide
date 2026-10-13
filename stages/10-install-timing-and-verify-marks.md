@@ -46,7 +46,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 9. **RH exhaust VCT solenoid.** Keep it clean. Twist it gently into the bore; if it fights you, pull it and look for burrs or dirt on the bore and the solenoid rather than pushing harder, because a cracked mega cap means a cylinder head. Torque to 8 Nm (71 lb-in), then +20° (Ford figure N0118737).
    From bag B07-07
 
-10. **LH secondary tensioner.** Same as the RH: oil the O-rings and the LH mega cap bore, clip left in, white shoe end up, press straight down until it snaps and bottoms (Ford figure N0118741). Hook the white C-shaped lower shoe over the bottom flange, centered. Pull the blue clip straight out toward the front and throw it away.
+10. **LH secondary tensioner.** Same as the RH: oil the O-rings and the LH mega cap bore, clip left in, white shoe end up, press straight down until it snaps and bottoms (Ford figure N0118741). Hook the white C-shaped lower shoe over the bottom flange, centered (Ford figure N0118742). Pull the blue clip straight out toward the front and throw it away (Ford figure N0118743).
 
 11. **Build and hang the LH secondary set.** Both LH VCT units and the LH secondary chain, colored links on the marks (Ford figure N0118132). Slide them on as one unit, chain over the upper shoe and under the lower one, each VCT's rear hole over its cam dowel, seated flush (Ford figure N0118745).
 
@@ -55,7 +55,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 
 13. **Activate the LH secondary tensioner.** Thumb or plastic handle on the chain over the upper white shoe between the LH sprockets, push straight down hard until it bottoms, let go (Ford figure N0118747). The chain should go tight. If it's still slack, push again.
 
-14. **LH exhaust VCT solenoid.** Same care as step 9. 8 Nm (71 lb-in), then +20°.
+14. **LH exhaust VCT solenoid.** Same care as step 9. 8 Nm (71 lb-in), then +20° (Ford figure N0118744).
     From bag B07-06
 
 15. **Upper LH primary guide.** One bolt, 10 Nm (89 lb-in) (Ford figure N0118125).
@@ -80,13 +80,13 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
     - Count **35 links** from the LH intake VCT colored link to the pair of colored links at the crank sprocket.
     Count the links *between* the colored links, not including them. Mark every fifth link with a paint pen as you go so you don't lose your place. Photograph both counts and every mark. This exact count is your check; a generic "turn it two revolutions and look" is not a substitute. (Ford's Oil Pump procedure has an RH/LH mix-up in the wording of this same check; the Timing Drive Components version above is the one to follow.)
 
-23. **Intake VCT solenoids.** LH intake solenoid and its bolt, then RH intake solenoid and its bolt, each 8 Nm (71 lb-in), then +20°. Same care as step 9: clean, slight twist, no force.
+23. **Intake VCT solenoids.** LH intake solenoid and its bolt, then RH intake solenoid and its bolt, each 8 Nm (71 lb-in), then +20° (Ford figures N0118136 for LH, N0118137 for RH). Same care as step 9: clean, slight twist, no force.
     From bag B05-05 (LH) and bag B05-06 (RH)
 
-24. **RH cam holding tool off, RH oil tube on.** Remove the RH 303-1248. Install the RH valve train oil tube and its 3 bolts at 8 Nm (71 lb-in), then +45° (Ford figure N0118127).
+24. **RH cam holding tool off, RH oil tube on.** Remove the RH 303-1248 (Ford figure N0118122). Install the RH valve train oil tube and its 3 bolts at 8 Nm (71 lb-in), then +45° (Ford figure N0118127).
     From bag B05-02
 
-25. **LH cam holding tool off, LH oil tube on.** Remove the LH 303-1248. Install the LH valve train oil tube and its 3 bolts at 8 Nm (71 lb-in), then +45° (Ford figure N0118126).
+25. **LH cam holding tool off, LH oil tube on.** Remove the LH 303-1248 (Ford figure N0118121). Install the LH valve train oil tube and its 3 bolts at 8 Nm (71 lb-in), then +45° (Ford figure N0118126).
     From bag B05-01
 
 ## Done when

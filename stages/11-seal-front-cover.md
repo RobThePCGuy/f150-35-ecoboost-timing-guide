@@ -51,7 +51,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 
 10. **Generator harness.** Slip the generator harness bracket over the front cover stud bolt, then push the black harness clip into its hole on the lower edge of the cover until it clicks flat (Ford figure N0121562). Keep the harness clear of where the crank pulley will spin.
 
-11. **Cooler tube bracket.** Set the transmission cooler tube bracket over the same stud bolt and run the nut down to 12 Nm (106 lb-in).
+11. **Cooler tube bracket.** Set the transmission cooler tube bracket over the same stud bolt and run the nut down to 12 Nm (106 lb-in) (Ford figure N0121561).
     From bag B04-12
 
 12. **Pan push-pin.** Line the harness clip's hole up with the hole in the oil pan boss and push the pin in. If it has a center plug, pull the plug up, push the body in flush, then press the plug down to lock it. Use a new pin if the legs are broken (Ford figure N0121573).

@@ -52,7 +52,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 11. **LH turbo-to-CAC tube bracket.** 1 bolt, 6 Nm (53 lb-in) (Ford figure N0132555 in "Thermostat Housing – Installation"). Plug in the block heater connector if your truck has one. The thermostat appearance cover waits for Stage 14.
     From bag B04-02
 
-12. **Peel the plastic off the new A/C belt.** The stretch belt comes wrapped; take the wrap off.
+12. **Take the plastic off the belts.** Pull off the waterproof plastic you wrapped over the belts in Stage 4 to keep coolant off them, plus any packaging on the new A/C stretch belt. Nothing plastic stays near a pulley.
 
 13. **Feed the A/C stretch belt.** From under the truck, push the belt up between the crank pulley and the accessory belt tensioner, let it hang behind the crank pulley with the ribs facing forward, then loop the bottom onto the A/C compressor pulley, seated in its grooves and riding **above the oil pan flange** (Ford figure N0117717 in "A/C Compressor Belt – Installation"; Ford's art shows a 5.0L, the 3.5L is the same idea).
 

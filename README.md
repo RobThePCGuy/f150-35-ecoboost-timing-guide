@@ -34,7 +34,7 @@ Reference: [TORQUE.md](TORQUE.md) (every torque, angle and sealant window) · [B
 
 ## Notes
 
-- 2WD trucks skip the front axle support in Stages 6 and 9.
+- Stages 6 and 9 follow Ford's 4X4 oil pan procedure. On a 2WD truck, use Ford's 4X2 oil pan procedure for the axle and crossmember steps.
 - Socket sizes marked "unconfirmed" in the bolt ledger weren't confirmed for this engine. Corrections welcome as issues or pull requests.
 - You're working on fuel, cooling and timing systems. Follow Ford's warnings in the workshop manual, support the truck on stands, and relieve fuel pressure before opening any fuel line.
 

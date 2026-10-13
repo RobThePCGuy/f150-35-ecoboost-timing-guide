@@ -2,7 +2,7 @@
 
 The oil pump bolts to the bottom of the block, so the pan has to come down. On a 4WD truck that means removing the starter and a crossmember and lowering the front axle on a jack for clearance. With the pan off, you pull the crank sprocket, the pickup and the pump, then clean and inspect the pickup so it can go back on.
 
-**2WD trucks:** skip steps 11–15 (crossmember and axle). Everything else applies.
+**2WD trucks:** this page follows Ford's 4X4 branch of Oil Pan – Removal. Open Ford's 4X2 branch and follow it in place of steps 11–15; check every other step against it too.
 
 **Have open:**
 - Ford workshop manual, Section 303-01A: Oil Pan – Removal (front cover already removed, 4X4)
@@ -25,7 +25,7 @@ The oil pump bolts to the bottom of the block, so the pan has to come down. On a
 2. **Remove the skid plate if there is one** (4 bolts). No skid plate, skip this.
    Bag B06-02: 4 × 13 mm, back in Stage 9, 48 Nm
 3. **Remove the front air dam.** Use the Section 501-02 exploded view for its fasteners.
-   Bag B06-03: 2 air dam bolts (size varies by build), back in Stage 9
+   Bag B06-03: 2 bolts on Kansas City-built trucks, or 2 nuts with their 2 retainers on Dearborn-built trucks (socket size unconfirmed; check the 501-02 view), back in Stage 9
 4. **Free the transmission cooler tubes from the pan area.** Take out the bracket bolt first. Then open the two plastic clips around the steel lines: lift the latch tab with a small screwdriver and swing the clip open. Pull on the clip, never bend the lines. (Ford figure N0147997 in "Oil Pan – Removal")
    Bag B06-04: 1 × 10 mm, back in Stage 9, 12 Nm
 5. **Remove the oil filter** and throw it away.
@@ -40,7 +40,7 @@ The oil pump bolts to the bottom of the block, so the pan has to come down. On a
 10. **Remove the starter.** Take out the lower stud bolt and move the ground cable eyelet aside, then take out the upper stud bolt and lift the starter out. Tape a "LOWER + GROUND" label on the lower one.
     Bag B06-09: 2 × 13 mm stud bolts, back in Stage 9, 48 Nm, upper first
 11. **Remove the crossmember** (4 bolts and 4 nuts). (Ford figure N0085027 in "Oil Pan – Removal")
-    Bag B06-10: 4 bolts + 4 nuts, 18 mm, back in Stage 9, 90 Nm
+    Bag B06-10: 4 bolts + 4 nuts, 18 mm likely, back in Stage 9, 90 Nm
 12. **Support the front axle.** Set a hydraulic jack under the front axle and strap the axle to it tight. The axle rides on that jack until Stage 9. (Ford figure GE0586B in "Oil Pan – Removal")
 13. **Remove the upper axle carrier bushing bolt.** Label it "UPPER." (Ford figure A0045775 in "Oil Pan – Removal")
     Bag B06-11: 1 × 18 mm, back in Stage 9, 115 Nm
@@ -53,9 +53,9 @@ The oil pump bolts to the bottom of the block, so the pan has to come down. On a
 17. **Remove the 2 LH bellhousing-to-pan bolts.** (Ford figure N0113916 in "Oil Pan – Removal")
     Bag B06-15: 2 × 13 mm (possibly 15 mm), back in Stage 9, 48 Nm after pan stage 3
 18. **Remove the 16 pan bolts.** Push each one through its numbered hole in the cardboard outline as it comes out. (Ford figure N0114753 in "Oil Pan – Removal")
-    Bag B06-16: bolt 10 alone, 10 mm, back in Stage 9, 3 Nm, then 20 Nm + 90° last
-    Bag B06-17: bolts 11, 13, 14, 10 mm, back in Stage 9, 3 Nm, then 20 Nm + 45°
-    Bag B06-18: bolts 1–9 and 12, 10 mm, back in Stage 9, 20 Nm + 45°
+    Bag B06-16: bolt 10 alone, 10 mm likely, back in Stage 9, 3 Nm, then 20 Nm + 90° last
+    Bag B06-17: bolts 11, 13, 14, 10 mm likely, back in Stage 9, 3 Nm, then 20 Nm + 45°
+    Bag B06-18: bolts 1–9 and 12, 10 mm likely, back in Stage 9, 20 Nm + 45°
     Bag B06-19: bolts 15 and 16, 8 mm, back in Stage 9, 10 Nm + 45°
 19. **Pry the pan down.** Check every bolt is out. Put a flat pry tool in the cast pry pocket at the LH rear, twist to open the joint, then do the same at the RH front. Alternate until the RTV lets go. Never drive the blade into the seam anywhere else. Lower the pan level so the oil in it stays put. (Ford figure N0113919 in "Oil Pan – Removal")
 20. **Unclip the generator harness retainer** from the block for clearance. Slide a forked trim tool under the clip base and pry straight out. (Ford figure N0121869 in "Oil Pan – Removal")

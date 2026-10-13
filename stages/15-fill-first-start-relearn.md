@@ -17,7 +17,7 @@ Oil and coolant go in, the battery and fuel pump module get reconnected, you pro
 1. **Confirm the clock.** Front cover installed + 90 minutes has passed. All fixtures, cam tools and temporary plugs are out. Timing and torque logs are complete.
 2. **Oil.** Fit the new filter, check the drain plug, and pour in about 6.0 US qt of 5W-30. That number is a target, not a finish line: the dipstick decides.
 3. **Read the dipstick right.** Level ground, engine off, park brake on, in Park. Wait 15 minutes for oil to settle. Pull the dipstick, wipe it, push it all the way in, pull it and read. Keep it between MIN and MAX; never over MAX. Seat the dipstick and cap fully.
-4. **Coolant fill.** Fill through the degas bottle until the level sits between the COOLANT FILL LEVEL marks. Check the mix with the refractometer and record it, along with how much went in.
+4. **Coolant fill.** Fill through the degas bottle until the level sits between the COOLANT FILL LEVEL marks. Check the mix with the refractometer and record it, along with how much went in. Aim for 48–50% coolant for year-round use; never below 40% or above 60%.
 5. **Heater settings.** Set heat to max temperature, blower to max, air to the dash vents.
 6. **Cap on.** Reinstall the degas cap tightly with the engine cold. Never open it once the engine is warm.
 7. **Battery.** Reconnect the negative cable and torque the clamp nut to **5 Nm (44 lb-in)**. `From bag B02-03`
@@ -30,7 +30,7 @@ Oil and coolant go in, the battery and fuel pump module get reconnected, you pro
 14. **Recheck the oil** with the engine-off method from step 3.
 15. **Misfire relearn (required).** After crank and timing work the PCM's crank-wheel profile has to be relearned, or it flags misfires that aren't there. A battery disconnect does not reset it on this truck. Full walk-through: [RELEARN.md](../RELEARN.md). Short version:
     - Engine fully warm, fuel above 1/4 tank, in Park, A/C and lights off. Clear any leftover codes.
-    - In FORScan Lite (with the OBDLink MX+): Service procedures > PCM **Misfire Monitor Neutral Profile Correction**. Follow the screen: rev to the speed it shows (around 3,000 rpm), let it fall back to idle, repeat until the counter reaches 0 and it reports complete.
+    - In FORScan Lite (with the OBDLink MX+): Service procedures > PCM **Misfire Monitor Neutral Profile Correction**. Follow the screen: rev to the speed it shows on screen (use that number, not a guess), let it fall back to idle, repeat until the counter reaches 0 and it reports complete.
     - Check PID **MP_LRN** reads YES and there are no codes, especially P0315.
     - **Fallback** if the procedure isn't offered or keeps aborting: do a KAM reset (PCM Reset All Adaptations), confirm MP_LRN now reads NO, then on the road with the engine warm, coast from **60 down to 40 mph with your foot off both pedals, three times**. MP_LRN should flip to YES with no P0315. If MP_LRN still read YES right after the reset, the reset didn't take; a shop with Ford IDS has to run it.
     - Screenshot the result and save the post-repair scan for your log.

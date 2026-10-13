@@ -35,7 +35,7 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
 7. **Pull the four locating bolts down light.** Bolts 10, 11, 13, 14, in Ford's order, to 3 Nm (27 lb-in). That holds the alignment while you work.
 
 8. **Run in the rest and do the three final stages.** Start the remaining bolts. Then, in this order, inside 60 minutes of the first RTV:
-   - **Stage 1:** bolts 1–9 and 11–14 (skip 10) to 20 Nm (177 lb-in) in number order, then each one +45°.
+   - **Stage 1:** bolts 1–9 and 11–14 (skip 10) to 20 Nm (177 lb-in) in number order (on Ford figure N0114565 the numbers spiral out from the middle, so number order is Ford's sequence), then each one +45°.
    - **Stage 2:** bolts 15 and 16 to 10 Nm (89 lb-in), then +45°.
    - **Stage 3:** bolt 10 last, to 20 Nm (177 lb-in), then +90°.
    45° is 1/8 turn and 90° is 1/4 turn. Use the angle gauge or paint a line on each head, and make each angle one smooth pull.

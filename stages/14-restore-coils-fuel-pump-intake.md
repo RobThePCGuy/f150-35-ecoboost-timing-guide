@@ -17,19 +17,19 @@ This stage closes up the top of the engine: all six coils, the high-pressure fue
 
 ### Coils
 
-1. **Coils in.** Put a small dab of dielectric grease inside each coil boot, press each coil down onto its plug until it seats, and torque the bolts to **7 Nm (62 lb-in)**. Replace any coil seal that's torn. Do all six. `From bag B03-14`
+1. **Coils in.** Put a small dab of dielectric grease inside each coil boot, press each coil down onto its plug until it seats, and torque the bolts to **7 Nm (62 lb-in)**. Check each coil's seal for rips, nicks or tears; slide a new one on until it seats fully at the top of the coil if it's damaged. Do all six. `From bag B03-14`
 2. **Coil plugs.** Push each coil plug straight on until it clicks, then tug. Don't press the release tab while seating. A plug that won't click usually has a bent pin or debris in it; look before forcing.
 3. **Crankcase vent tube (LH).** Clean both ends, push each coupling straight onto its fitting until it clicks, and pull back hard to prove it's locked. Close any secondary latch. No tools on the clips. `From bag B03-13`
-4. **Vacuum hoses.** Put each small hose back on the nipple it came off; swapping them upsets boost control. Use your removal photos or tags, or trace each hose end to end. Push each one on until it bottoms and tug.
+4. **Regulator hoses (RH).** Put the 2 turbocharger regulator hoses back on the nipples they came off; swapping them upsets boost control. Use your removal photos or tags, or trace each hose end to end. Push each one on until it bottoms and tug.
 5. **Regulator hose tie.** New zip tie through the hose retainer at the valve cover, around the regulator hose. Snug, not pinched, and trim it flush so it can't rub the coil plugs.
 
 ### Fuel pump
 
-6. **Take the plate off the pump bore.** Remove the mounting plate bolt and lift off the pump mounting plate so you can see the bore. `Bag B14-01: 1 × T30 bolt and plate, back in step 12, 10 Nm`
+6. **Take the plate off the pump bore.** Remove the mounting plate bolt and lift off the pump mounting plate so you can see the bore. `Bag B14-01: 1 × T30 bolt and plate; plate goes back in steps 10–11, bolt torqued in step 12 to 10 Nm`
 7. **Put the cam at BDC.** Breaker bar on the crank pulley bolt, turn **clockwise only** (standing in front of the truck). Shine a light down the pump bore and watch the lobe. Stop when it's at its lowest point with the round base of the cam facing up (Ford figure E182512 in "Fuel Injection Pump – Installation"). Overshot it? Keep going clockwise to the next low point. Never back up.
 8. **Tappet.** Oil the pedestal bore, the cam lobe and the roller tappet with clean engine oil, then drop the tappet in. `From bag B03-12`
 9. **Seals.** Inspect the mounting plate seal and its 2 O-rings; replace any that are nicked or flattened. Oil them all. Oil the new pump O-ring and fit it on the pump.
-10. **Assemble.** Wipe both mating faces clean. Fit the mounting plate onto the pump and start the 2 new pump bolts through it.
+10. **Assemble.** Wipe both mating faces clean. Fit the mounting plate onto the pump and put the 2 new pump bolts through both.
 11. **Seat the pump evenly.** Set the pump and plate on the pedestal and start the 2 new bolts and the plate bolt loosely. Bring the pump bolts down one full turn each, alternating, until the pump is seated. Then torque each to **20 Nm (177 lb-in)**, then turn each **an additional 45°** (Ford figure E182903 in "Fuel Injection Pump – Installation"). `From bag B03-11 (new bolts)`
 12. **Plate bolt.** Torque the mounting plate bolt to **10 Nm (89 lb-in)**. `From bag B14-01`
 13. **Fuel tube, finger-tight first.** Oil the threads of the high-pressure tube flare nut. Start the flare nut on the pump and the **new** bracket nut on the bracket, both finger-tight only (Ford figure E184017 in "Fuel Injection Pump – Installation"). `From bags B02-02 and B02-01 (new nut)`

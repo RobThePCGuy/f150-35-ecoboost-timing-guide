@@ -15,8 +15,8 @@ You read the new pump's instructions, prime it, bolt it to the block, refit the 
 ## Steps
 
 1. **Read the pump maker's instruction sheet first.** Check it against the Ford pump you removed: mounting holes, pickup flange, seals and priming. Follow the sheet wherever it differs from the steps below. Leave the relief spring as the pump came. The M390HV ships with a 100 psi bypass spring and an optional 85 psi spring; those numbers are spring ratings, not a gauge pressure to aim for, and you don't swap or touch the relief plug in this job.
-2. **Prime the pump.** Set it on the bench, intake side up. Pour about 2 tablespoons of clean engine oil into the pickup inlet port. Turn the inner gear by hand through its center bore several full turns, until the oil smears around and you feel it pull. Note the 2 tablespoons for your oil fill count later. Install it right away so the oil stays in. (Ford figure N0148009 in "Oil Pump – Installation")
-3. **Mount the pump** with its 3 bolts. Run them in by hand, then torque to 10 Nm (89 lb-in).
+2. **Prime the pump.** Set it on the bench, intake side up. Pour about 2 tablespoons of clean engine oil into the pickup inlet port. Turn the inner gear by hand through its center bore several full turns, until the oil smears around and you feel it pull. Note the 2 tablespoons for your oil fill count later. Install it right away so the oil stays in.
+3. **Mount the pump** with its 3 bolts. Run them in by hand, then torque to 10 Nm (89 lb-in). (Ford figure N0148009 in "Oil Pump – Installation")
    From bag B06-22
 4. **Fit the pickup.** Put a new O-ring on the pickup tube, push it squarely into the pump, and install the 3 bolts. Torque to 10 Nm (89 lb-in). (Ford figure N0120779 in "Oil Pump – Installation")
    From bag B06-21

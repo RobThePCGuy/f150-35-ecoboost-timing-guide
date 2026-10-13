@@ -15,7 +15,7 @@ Drain oil and coolant, strip the front of the engine (belts, thermostat housing,
 1. **Drain the oil.** Pull the drain plug, let it empty, put the plug back.
    Bag B04-01: 1 × 15 mm, reinstalled now, 27 Nm (20 lb-ft).
 2. **Crack the 4 water pump pulley bolts loose** while the belt is still on; its tension holds the pulley still. Don't remove them yet.
-3. **Remove the accessory belt.** Photograph the routing. 15 mm socket on a long bar on the tensioner hex, pull counterclockwise. The arm swings and the belt goes slack. If the bolt itself starts to turn instead, stop and go the other way. Slip the belt off the smooth idler and ease the tensioner back.
+3. **Remove the accessory belt.** Photograph the routing. 15 mm socket on a long bar on the tensioner hex, pull counterclockwise. The arm swings and the belt goes slack. If the arm doesn't move and the bolt itself starts to turn, stop and check the tensioner against Ford's accessory drive figure before forcing it. Slip the belt off the smooth idler and ease the tensioner back.
 4. **Cover the A/C belt** completely with waterproof plastic so coolant can't reach it.
 5. **Drain the coolant.** With the engine cold, wrap a thick rag around the degas bottle cap and turn it slowly counterclockwise until pressure starts to hiss. Step back until it stops, then remove the cap. Open the radiator draincock over a pan, drain, and close it.
 6. **Remove the LH air cleaner-to-turbo pipe and LH turbo-to-CAC pipe** if not already out from Stage 3. Cover all accessory belts with plastic.
@@ -37,7 +37,7 @@ Drain oil and coolant, strip the front of the engine (belts, thermostat housing,
     Bag B04-07: 1 stud, back in Stage 12, 8 Nm (71 lb-in).
 17. **Remove the 2 bolts and the accessory belt tensioner.**
     Bag B04-08: 2 × 10 mm, back in Stage 12, 25 Nm (18 lb-ft).
-18. **Remove the A/C stretch belt.** Set the stretch-belt tool under the belt at the bottom of the compressor pulley (Ford figure N0115833 in "A/C Compressor Belt – Removal"). Turn the crank **clockwise** with the 18 mm socket on the crank bolt, slowly, by hand, no impact. Let the tool feed in around about half the pulley. Then fold the tool around the inside of the belt and pull it firmly from below in one quick motion; the belt jumps off. If the crank won't turn smoothly, stop. Never turn it counterclockwise.
+18. **Remove the A/C stretch belt.** Set the stretch-belt tool on the belt at the compressor pulley exactly where Ford figure N0115832 in "A/C Compressor Belt – Removal" shows it. Turn the crank **clockwise** with the 18 mm socket on the crank bolt, slowly, by hand, no impact. Let the tool feed in evenly around about half the pulley (Ford figure N0115833). Then fold the tool around the inside of the belt and pull it firmly from below in one quick motion; the belt jumps off. If the crank won't turn smoothly, stop. Never turn it counterclockwise.
 19. **Remove the crank pulley bolt.** Hold the pulley with the strap wrench and break the bolt loose with the 18 mm. Throw the bolt away; keep the washer.
     Bag B04-09: 1 × 18 mm, NEW at Stage 12, 120 Nm, loosen one full turn, 50 Nm, then +90°.
     Bag B04-10: washer, back in Stage 12.
