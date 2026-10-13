@@ -48,11 +48,11 @@ Drain oil and coolant, strip the front of the engine (belts, thermostat housing,
 23. **Remove the nut and the trans cooler tube bracket** from the front cover stud.
     Bag B04-12: 1 × 10 mm, back in Stage 11, 12 Nm (106 lb-in).
 24. **Free the alternator harness** clip from the front cover stud with a forked trim tool and move the harness away.
-25. **Remove the 22 front cover bolts.** (Ford figure N0120120 in "Engine Front Cover – Removal" shows all locations.) Bag them by the groups below; positions matter at install.
-    Bag B04-13: 9 × 10 mm (positions 1, 2, 7, 8, 15, 17, 18, 19, 20), back in Stage 11, 10 Nm all in sequence, then 20 Nm + 45° in sequence.
-    Bag B04-14: 1 larger bolt, position 21 (center, above the crank; 13 mm likely), back in Stage 11, 10 Nm with the first group, then 20 Nm + 90°.
-    Bag B04-15: 11 × 10 mm (positions 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 16), back in Stage 11, 10 Nm then 20 Nm + 45°.
-    Bag B04-16: 1 × 8 mm, position 22 (upper LH), back in Stage 11, 10 Nm + 45°.
+25. **Remove the 22 front cover bolts.** (Ford figure N0120120 in "Engine Front Cover – Removal" shows all locations.) Bag them by the groups below; positions matter at install. Sockets: 13 mm (field-confirmed: every front cover bolt is 13 mm except one 15 mm at the lower right and one small 8 or 10 mm at the top left, as you face the engine). Push each one through the cardboard template in its hole so the odd sizes go back where they came from.
+    Bag B04-13: 9 × 13 mm (positions 1, 2, 7, 8, 15, 17, 18, 19, 20), back in Stage 11, 10 Nm all in sequence, then 20 Nm + 45° in sequence.
+    Bag B04-14: 1 larger bolt, position 21 (13 mm), back in Stage 11, 10 Nm with the first group, then 20 Nm + 90°.
+    Bag B04-15: 11 × 13 mm (positions 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 16), back in Stage 11, 10 Nm then 20 Nm + 45°.
+    Bag B04-16: 1 small bolt (8 or 10 mm), position 22, back in Stage 11, 10 Nm + 45°.
 26. **Pry the front cover off at the 7 pry pads only.** (Ford figure N0120123.) Facing the engine: each top outer corner, the inner top of the RH (passenger) head lobe, three on the LH (driver) lower edge, and the bottom RH (passenger) corner. Check the figure for your exact spots. Flat bar on the cast tab, never in the seam. Work tab to tab until the sealant lets go, then pull the cover straight forward.
 27. **Inspect the radial seal** on the back of the cover (it seals to the oil pump area). Replace it only if damaged, pushing it out from the rear with Ford tool 205-150 or an equivalent driver.
 

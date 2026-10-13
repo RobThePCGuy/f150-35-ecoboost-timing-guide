@@ -10,7 +10,7 @@ Confirm your truck matches this guide, get every part and tool on the bench, set
 - Inch-pound and foot-pound torque wrenches, angle gauge, strap wrench, 3-jaw puller and pulley installer, crank seal remover/installer, stretch-belt remover/installer for the A/C belt.
 - Trim-pin tools, hose-clamp pliers, flush cutters, plastic caps and plugs, drain pans, waterproof plastic, metal surface prep and lint-free rags.
 - Floor jack, jack stands, and a strap for the front axle (4WD only, Stage 6).
-- Scan tool plus an OBD adapter that FORScan supports (for example OBDLink MX+) and a phone or laptop with FORScan.
+- Scan tool plus an OBD adapter that FORScan supports (OBDLink EX with FORScan for Windows, or OBDLink MX+ with FORScan Lite on a phone).
 - Parts: see [PARTS.md](../PARTS.md).
 
 ## Steps

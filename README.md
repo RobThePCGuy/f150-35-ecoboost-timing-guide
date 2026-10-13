@@ -9,7 +9,7 @@ It's built for doing the job at home: what to do at every step, how each clip an
 - **Get Ford's workshop manual.** This guide follows Ford's procedures and points to Ford's figures by ID (for example "Ford figure N0118126"), but doesn't reproduce them. A short-term subscription at the Motorcraft Service / Ford PTS site gives you every procedure and diagram. Have the matching procedure open as you work.
 - **Read [PARTS.md](PARTS.md)** and order everything first.
 - **Set up the bolt system in [BOLTS.md](BOLTS.md)**: two tables, numbered spots, labeled bags. Reassembly is where this job goes wrong; the bags are how it doesn't.
-- **Check the relearn before teardown** ([RELEARN.md](RELEARN.md)). It takes five minutes with FORScan Lite and a Bluetooth adapter.
+- **The misfire relearn is required after this job** ([RELEARN.md](RELEARN.md)). Confirm before teardown that FORScan lists it for your truck; it takes five minutes.
 
 ## The 16 stages
 

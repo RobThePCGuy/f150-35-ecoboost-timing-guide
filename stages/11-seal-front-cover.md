@@ -37,7 +37,8 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
    - **Stage 1:** bolts 1, 2, 7, 8, 15, 17, 18, 19, 20, 21 in Ford's sequence to 10 Nm (89 lb-in)
    - **Stage 2:** bolts 1, 2, 7, 8, 15, 17, 18, 19, 20 (not 21) in sequence to 20 Nm (177 lb-in), then each +45°
    - **Stage 3:** bolt 21 alone to 20 Nm (177 lb-in), then **+90°**
-   From bag B04-13: 9 × 10 mm, 10 Nm, then 20 Nm + 45° in sequence
+   Every bolt goes back in the hole it came from on your cardboard template (the 15 mm and the small bolt only fit their own holes).
+   From bag B04-13: 9 × 13 mm, 10 Nm, then 20 Nm + 45° in sequence
    From bag B04-14: bolt 21, the larger center bolt above the crank, 10 Nm, then 20 Nm + 90°
    Write down the time the cover went on.
 
@@ -46,8 +47,8 @@ Keep the Ford procedure open beside this page for the diagrams and exact wording
    - **Stage 2:** the same 11 bolts in sequence to 20 Nm (177 lb-in), then each +45°
    - **Stage 3:** bolt 22 alone to **10 Nm (89 lb-in), then +45°**. Bolt 22 never sees 20 Nm.
    The engine mount bracket bolts also have to be in and tight inside this same 35 minutes.
-   From bag B04-15: 11 × 10 mm, 10 Nm, then 20 Nm + 45°
-   From bag B04-16: bolt 22, 8 mm, upper LH area, 10 Nm + 45°
+   From bag B04-15: 11 × 13 mm, 10 Nm, then 20 Nm + 45°
+   From bag B04-16: bolt 22, the small 8 or 10 mm bolt, 10 Nm + 45°
 
 10. **Generator harness.** Slip the generator harness bracket over the front cover stud bolt, then push the black harness clip into its hole on the lower edge of the cover until it clicks flat (Ford figure N0121562). Keep the harness clear of where the crank pulley will spin.
 

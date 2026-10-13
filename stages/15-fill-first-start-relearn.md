@@ -8,7 +8,7 @@ Oil and coolant go in, the battery and fuel pump module get reconnected, you pro
 - 5W-30 meeting Ford WSS-M2C946-A, about 6.0 US qt with a new Motorcraft FL-500S filter (count the oil you used priming the pump)
 - Coolant: Motorcraft Orange, or Motorcraft Yellow (VC-13-G concentrate / VC-13DL-G prediluted) where Ford's compatibility guidance allows it with a known, clean factory Orange fill. Never Gold or an unknown aftermarket coolant.
 - Coolant refractometer, funnel, 8 mm socket
-- FORScan Lite on a phone with an OBDLink MX+ adapter
+- FORScan for Windows with an OBDLink EX (USB), or FORScan Lite on a phone with an OBDLink MX+
 - **No oil in the engine until 90 minutes after the front cover went on.** Check the time in your log.
 - **No running the engine** until oil, coolant and the fuel leak check are done.
 
@@ -28,12 +28,10 @@ Oil and coolant go in, the battery and fuel pump module get reconnected, you pro
 12. **Bleed the cooling system.** At idle, feel for hot air at the vents. Let it reach operating temperature: hot air at the vents, temp gauge steady mid-NORMAL, upper radiator hose hot. If the air stays cool and the gauge doesn't move, the coolant is low. Shut down, let it cool, top up.
 13. **Cool and top up.** Shut off, let the engine cool fully, check the degas bottle and top up to the marks. Repeat the warm-up, cool-down and top-up cycle until the level stays put.
 14. **Recheck the oil** with the engine-off method from step 3.
-15. **Misfire relearn (required).** After crank and timing work the PCM's crank-wheel profile has to be relearned, or it flags misfires that aren't there. A battery disconnect does not reset it on this truck. Full walk-through: [RELEARN.md](../RELEARN.md). Short version:
-    - Engine fully warm, fuel above 1/4 tank, in Park, A/C and lights off. Clear any leftover codes.
-    - In FORScan Lite (with the OBDLink MX+): Service procedures > PCM **Misfire Monitor Neutral Profile Correction**. Follow the screen: rev to the speed it shows on screen (use that number, not a guess), let it fall back to idle, repeat until the counter reaches 0 and it reports complete.
-    - Check PID **MP_LRN** reads YES and there are no codes, especially P0315.
-    - **Fallback** if the procedure isn't offered or keeps aborting: do a KAM reset (PCM Reset All Adaptations), confirm MP_LRN now reads NO, then on the road with the engine warm, coast from **60 down to 40 mph with your foot off both pedals, three times**. MP_LRN should flip to YES with no P0315. If MP_LRN still read YES right after the reset, the reset didn't take; a shop with Ford IDS has to run it.
-    - Screenshot the result and save the post-repair scan for your log.
+15. **Misfire relearn (required every time).** Ford requires it after timing work; skip it and the PCM keeps the old crank-wheel profile and can flag misfires that aren't there. A battery disconnect doesn't clear the old profile.
+    - FORScan → Service Procedures → **PCM Reset All Adaptations** (KAM reset) to clear the old profile.
+    - Engine fully warm, Park, accessories off. FORScan → Service Procedures → **PCM Misfire Monitor Neutral Profile Correction** → Play. Accept the warnings, confirm the coolant temperature, then raise the RPM to the value on screen and let it return to idle as many times as it asks.
+    - Done when it reports complete, MP_LRN reads YES, and there are no codes (especially P0315). Full steps and sources: [RELEARN.md](../RELEARN.md).
 
 ## Done when
 - Oil level between MIN and MAX on a settled engine-off reading; filter and plug dry
