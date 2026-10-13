@@ -32,6 +32,16 @@ It's built for doing the job at home: what to do at every step, how each clip an
 
 Reference: [TORQUE.md](TORQUE.md) (every torque, angle and sealant window) · [BOLTS.md](BOLTS.md) · [PARTS.md](PARTS.md) · [RELEARN.md](RELEARN.md)
 
+## Videos
+
+FordTechMakuloco's series on this engine. Watching each part before the matching stages helps a lot.
+
+- [Part 1: Getting Inside the Engine](https://youtu.be/Va6sVtzRZAo) (Stages 2–4)
+- [Part 2: Removing Valve Train Components](https://youtu.be/k4bUkK9eqKk) (Stages 5–7)
+- [Part 3: Timing the Engine](https://www.youtube.com/watch?v=3Mvo5yiJzvM) (Stage 10)
+- [Part 4: Reassembling the Engine](https://youtu.be/dzb0PMI5v78) (Stages 11–15)
+- [Oil Pump Upgrade Without Oil Pan Removal](https://youtu.be/NJ2PYXTVjkI): a different method from this guide, which follows Ford's procedure with the pan off (Stages 6–9). Pick one method and stick with it.
+
 ## Notes
 
 - Stages 6 and 9 follow Ford's 4X4 oil pan procedure. On a 2WD truck, use Ford's 4X2 oil pan procedure for the axle and crossmember steps.
